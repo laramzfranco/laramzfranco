@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Lara Muniz</h1>
 
-<!--
-**laramzfranco/laramzfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor em formação • 🚀 Apaixonado por tecnologia • 🌱 Sempre evoluindo
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Amante+de+tecnologia;Sempre+aprendendo+novas+skills" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+🎓 Atualmente estudando: **Desenvolvimento de Sistemas**  
+💡 Interesse em: **Desenvolvimento Web | Back-end | Dados**  
+📍 Localização: **Sumaré/SP**  
+
+✨ Busco evoluir constantemente como desenvolvedor, criando projetos práticos e aprendendo novas tecnologias.
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+
+## 📊 Estatísticas
+
+<p align="center">
+https://github.com/laramzfranco
+
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-LINK">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:SEUEMAIL@email.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 👀 Visitantes
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU-USUARIO" />
+</p>
+
+---
+
+## ✨ Frase
