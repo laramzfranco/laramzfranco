@@ -45,12 +45,7 @@
   <a href="https://linkedin.com/in/lara-muniz-franco-bb933b3b2/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:laramzfranco@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
+  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:laramzfranco@email.com)
 
 ## 👀 Visitantes
 
