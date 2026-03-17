@@ -29,10 +29,12 @@
 ---
 
 
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-<p align="center">
-https://github.com/laramzfranco
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laramzfranco&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laramzfranco&layout=compact&theme=dracula)
+
 
 
 ---
